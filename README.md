@@ -6,8 +6,7 @@ Repositório criado ao longo das aulas do Stage 06 da turma 09 do explorer, o ob
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout">Layout</a>
+  <a href="#project">Project</a>
 </p>
 
 <br>
